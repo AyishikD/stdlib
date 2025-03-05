@@ -18,7 +18,7 @@
 
 # DEPENDENCIES #
 
-# Note: keep in alphabetical order...
+# Note: keep in alphabetical order..
 include $(TOOLS_MAKE_LIB_DIR)/help/assert.mk
 include $(TOOLS_MAKE_LIB_DIR)/help/debug.mk
 include $(TOOLS_MAKE_LIB_DIR)/help/diagnostics.mk
